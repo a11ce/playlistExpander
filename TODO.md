@@ -1,0 +1,2 @@
+- [ ] artist-wise expansion
+- [ ] maybe a website
